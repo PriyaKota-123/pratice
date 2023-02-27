@@ -1,0 +1,1 @@
+1.create a django project with 2 applictions and create templates and static apply css all attributes[like position,float,margine] .
